@@ -106,8 +106,6 @@ Start the aplication and enjoy: \o/
 
 ## Nation page:
 
-Nation page up part            |  Nation page down part  
-:-------------------------:|:-------------------------:
 <img src=".github/nation.png" width="425"/>
 
 <!-- CONTRIBUTING -->

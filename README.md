@@ -49,13 +49,6 @@
 Main Challenge of Chapter 04. WorldTrip. Using Chakra, Swiper and Next.js.
 [Figma Prototype](https://www.figma.com/file/zLovqF0nkE457NOIn2HhOi/Desafio-1-M%C3%B3dulo-4-ReactJS-(Copy)?node-id=0%3A1)
 
-<!-- Project image -->
-<!-- <img src=".github/Home.png" alt="Proffy"> -->
-
-
-## Description
-This is a docker container with NEST.JS Backend and React.JS Front-End that list routes.
-
 # :gear: Built With
   ## Tools
   * [VSCode](https://code.visualstudio.com/)
